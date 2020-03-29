@@ -1,0 +1,6 @@
+C:\Users\UC225792\Documents\Interview Preparation\Interview-Preparation-Janaki\Interview-Preparation\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Users\UC225792\Documents\Interview Preparation\Interview-Preparation-Janaki\Interview-Preparation\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\UC225792\Documents\Interview Preparation\Interview-Preparation-Janaki\Interview-Preparation\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\UC225792\Documents\Interview Preparation\Interview-Preparation-Janaki\Interview-Preparation\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\UC225792\Documents\Interview Preparation\Interview-Preparation-Janaki\Interview-Preparation\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Users\UC225792\Documents\Interview Preparation\Interview-Preparation-Janaki\Interview-Preparation\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
